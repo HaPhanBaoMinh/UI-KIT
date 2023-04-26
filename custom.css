@@ -1,0 +1,24 @@
+.navbar .dropdown-menu {
+    border-top-color: red;
+}
+
+.nav-link:hover {
+    color: red !important;
+}
+
+.bg-primary {
+    background-color: red !important;
+}
+
+.btn-primary {
+    background-color: red !important;
+    border: 1px solid red;
+}
+
+.active {
+    color: red;
+}
+
+.hs-mega-menu-opened {
+    color: red !important;
+}
